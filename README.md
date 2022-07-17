@@ -1,4 +1,4 @@
-# React-Customhooks
+# React-Custom-hooks
 
 ## Last updated July 17 2022
 
